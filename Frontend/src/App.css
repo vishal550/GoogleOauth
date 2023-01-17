@@ -1,0 +1,27 @@
+.header-container {
+  display: flex;
+  margin: 0 2% 0 2%;
+}
+
+.logo-img {
+  width: 87px;
+  height: 87px;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-links {
+  display: flex;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
+
+li {
+  list-style: none;
+  width: 9%;
+}
